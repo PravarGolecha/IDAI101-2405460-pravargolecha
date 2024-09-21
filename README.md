@@ -59,12 +59,14 @@ Then, we have to Preview the model before exporting it so get to know that the m
 
 After, creating the model and testing it we will click on export and then dowloand it or copy the sharable link.
 
-There are many ways by which we can Evaluate our models performance and accuracy:
-1) By taking random images from google of the we can upload them on our model and evaluate its performance and accuracy.
-2) By using more and more images in the model we can increase the accuracy of the model and evaluate its performance.
-3) We can include more specific classes to increase the accuracy.
-
- This model can be used to solve the curiosity of chidren who want to know that type of species is this animal and also can be used to identify different type animals species it is, which people can not identify and have confusion in identifying it. 
+This model helps us to evalute the performance of the model and incraese its accuracy. We can do it in many ways like:
+It facilitates easy identification of species in the field, hence very important in biodiversity conservation efforts, as it helps track the populations of animals.
+It serves as an educational tool; it helps educate both students and the public about the different kinds of animal species and their characteristics.
+Species identification allows for quick and accurate identification of species in the field to help ecologists and wildlife enthusiasts identify species.
+It can help collect data for citizen science projects in promoting public participation in the monitoring of wildlife.
+It can thus help in management and mitigation of human-wildlife conflicts by identifying the type of species present in particular areas.
+Research Efficiency It accelerates research processes since the process of identifying animals in images or videos is automated, giving researchers time to carry out analysis rather than manual classification.
+This model can be used to solve the curiosity of chidren who want to know that type of species is this animal and also can be used to identify different type animals species it is, which people can not identify and have confusion in identifying it. 
 
  Here are some of the examples of the output of the model created by me:
  ![Screenshot 2024-09-20 231825](https://github.com/user-attachments/assets/f69a0d26-644e-4f0b-9287-5fc1413090f5)
