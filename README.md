@@ -68,9 +68,13 @@ There are many ways by which we can Evaluate our models performance and accuracy
 
  Here are some of the examples of the output of the model created by me:
  ![Screenshot 2024-09-20 231825](https://github.com/user-attachments/assets/f69a0d26-644e-4f0b-9287-5fc1413090f5)
+
  ![Screenshot 2024-09-20 231853](https://github.com/user-attachments/assets/9dd1a5ee-1b28-4cce-9866-e870c991959a)
+ 
  ![Screenshot 2024-09-20 232137](https://github.com/user-attachments/assets/f6733e6c-2326-47af-adc3-cea13dc0ce01)
+ 
  ![Screenshot 2024-09-20 232002](https://github.com/user-attachments/assets/d5b27b8d-7e01-49cf-ae87-58d621b7023a)
+ 
  ![Screenshot 2024-09-20 232225](https://github.com/user-attachments/assets/5e65c24e-f2f6-422c-a3f0-c693d26b0809)
 
 
