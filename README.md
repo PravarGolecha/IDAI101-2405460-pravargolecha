@@ -3,7 +3,7 @@
 
 https://teachablemachine.withgoogle.com/models/7MoH0wFt3/
 
-**Collection of the datasets and images** 
+**Collection of the datasets and images**
 
 *The first step of this project was to collect the data which should be accurate and real. The Collection and Preparing of data for training the model was one of the major task as the data provided should be accurate then only the output would be accurate.
 The data collected for the Animal Species Classifier is done on the basis of 3 species which are 'Birds','Reptiles' and 'Insects'.*
