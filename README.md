@@ -30,37 +30,37 @@ https://1drv.ms/u/c/5a2a2eb6855f4f1d/EUb9hVhDLoVJnN9QM1uotBcBbrLF-h__4-tcqwlh2Bm
 From these 3 options we have to choose 'Image project'. After selecting image project it will show 2 classes in which there will be 2 options in each one of them and they will be same.
 The 2 options in classes will be 'Upload' and 'Webcam'. like in the given image:*
 
-[Screenshot 2024-09-20 220231](https://github.com/user-attachments/assets/34cb6963-70b6-432b-9d8a-ece8b2549a4b)
+![Screenshot 2024-09-20 220231](https://github.com/user-attachments/assets/34cb6963-70b6-432b-9d8a-ece8b2549a4b)
 
 *After that we will click on Upload so it will 2 more option like in the image*
 
-[Screenshot 2024-09-20 220004](https://github.com/user-attachments/assets/e683599f-54d3-45ef-8549-bb09ea20223f)
+![Screenshot 2024-09-20 220004](https://github.com/user-attachments/assets/e683599f-54d3-45ef-8549-bb09ea20223f)
 
 *Now, if the images are stored in files of our pc or mac then click on option 1 which will show us something like this:*
 
-[Screenshot 2024-09-20 220938](https://github.com/user-attachments/assets/52685dd8-e64b-4d24-8fd9-b35ea6a9b459)
+![Screenshot 2024-09-20 220938](https://github.com/user-attachments/assets/52685dd8-e64b-4d24-8fd9-b35ea6a9b459)
 
 *Then, we can select the images required.*
 
 *Now, if the images are stored in google drive then we will click on option 2 which will show us*
 
-[Screenshot 2024-09-20 221224](https://github.com/user-attachments/assets/7c693f93-9089-4336-be67-1fe8f6c80ab8)
+![Screenshot 2024-09-20 221224](https://github.com/user-attachments/assets/7c693f93-9089-4336-be67-1fe8f6c80ab8)
 
 *Then, We can select the images required.*
 
 *After, Uploading the images it will look like the image shown below*
 
-[Screenshot 2024-09-20 221911](https://github.com/user-attachments/assets/05f4b2a8-2d30-4dda-9762-f08d609e3c70)
+![Screenshot 2024-09-20 221911](https://github.com/user-attachments/assets/05f4b2a8-2d30-4dda-9762-f08d609e3c70)
 
 *Now, we have to click on 'Train Model'. When we click on train model it will start to train the model with the provided images like the given images*
 
-[Screenshot 2024-09-20 222938](https://github.com/user-attachments/assets/2ae7840d-746e-4618-8d39-dc7638f8006c)
-[Screenshot 2024-09-20 223425](https://github.com/user-attachments/assets/f162d312-d3a4-4ea7-ad13-00bd4f908133)
-[Screenshot 2024-09-20 223514](https://github.com/user-attachments/assets/7be71f62-4144-4773-9b24-5b1fbe56bc71)
+![Screenshot 2024-09-20 222938](https://github.com/user-attachments/assets/2ae7840d-746e-4618-8d39-dc7638f8006c)
+![Screenshot 2024-09-20 223425](https://github.com/user-attachments/assets/f162d312-d3a4-4ea7-ad13-00bd4f908133)
+![Screenshot 2024-09-20 223514](https://github.com/user-attachments/assets/7be71f62-4144-4773-9b24-5b1fbe56bc71)
 
 *Then, we have to Preview the model before exporting it so get to know that the model is working perfectly.To check this we have to upload a image from the files (of our pc or mac) or google drive. So, it will show the output like the given image.*
 
-[Screenshot 2024-09-20 224619](https://github.com/user-attachments/assets/dd9941f0-5554-4d2f-8d29-a4a913e746b4)
+![Screenshot 2024-09-20 224619](https://github.com/user-attachments/assets/dd9941f0-5554-4d2f-8d29-a4a913e746b4)
 
 *After, creating the model and testing it we will click on export and then dowloand it or copy the sharable link.*
 
@@ -84,11 +84,11 @@ This model can be used to solve the curiosity of chidren who want to know that t
 
 **Here are some of the examples of the output of the model created by me:**
 
- [Screenshot 2024-09-20 231825](https://github.com/user-attachments/assets/f69a0d26-644e-4f0b-9287-5fc1413090f5)
+ ![Screenshot 2024-09-20 231825](https://github.com/user-attachments/assets/f69a0d26-644e-4f0b-9287-5fc1413090f5)
 
- [Screenshot 2024-09-20 231853](https://github.com/user-attachments/assets/9dd1a5ee-1b28-4cce-9866-e870c991959a)
+ ![Screenshot 2024-09-20 231853](https://github.com/user-attachments/assets/9dd1a5ee-1b28-4cce-9866-e870c991959a)
  
- [Screenshot 2024-09-20 232137](https://github.com/user-attachments/assets/f6733e6c-2326-47af-adc3-cea13dc0ce01)
- [Screenshot 2024-09-20 232002](https://github.com/user-attachments/assets/d5b27b8d-7e01-49cf-ae87-58d621b7023a)
+ ![Screenshot 2024-09-20 232137](https://github.com/user-attachments/assets/f6733e6c-2326-47af-adc3-cea13dc0ce01)
+ ![Screenshot 2024-09-20 232002](https://github.com/user-attachments/assets/d5b27b8d-7e01-49cf-ae87-58d621b7023a)
   
- [Screenshot 2024-09-20 232225](https://github.com/user-attachments/assets/5e65c24e-f2f6-422c-a3f0-c693d26b0809)
+ ![Screenshot 2024-09-20 232225](https://github.com/user-attachments/assets/5e65c24e-f2f6-422c-a3f0-c693d26b0809)
