@@ -1,4 +1,4 @@
-# IDAI101-2405460--pravargolecha
+# IDAI101-2405460-pravargolecha
 *The given link is of the project of Animal Species Classifier made by me (Pravar golecha).*
 
 https://teachablemachine.withgoogle.com/models/7MoH0wFt3/
